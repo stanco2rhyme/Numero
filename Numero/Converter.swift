@@ -26,7 +26,7 @@
 /// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 /// THE SOFTWARE.
 
-class ConverterTests {
+class Converter {
   func convert(_ number: Int) -> String {
     return ""
   }
